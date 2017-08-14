@@ -40,4 +40,4 @@ Once the above sequence exits successfully, an AMI may be created from the targe
 1. Register an AMI from the stopped instance
 1. Launch a test-instance from the newly-created AMI and verify that it functions as expected.
 
-The OS-specific components can be further automated by using frameworks like [Packer](https://www.packer.io/). One such project that does this is Plus3 IT's [spel](https://github.com/plus3it/spel) project.
+The OS-specific components can be further automated by using frameworks like [Packer](https://www.packer.io/). One such project that does this is Plus3 IT's [spel](https://github.com/rbdunne/spel) project.
